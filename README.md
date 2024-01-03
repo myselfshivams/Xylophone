@@ -40,7 +40,5 @@ If you encounter any issues or have suggestions for enhancements.
 
 **Start playing your tunes with the Xylophone App for iOS! Have fun making music!**
 
----
 
-Feel free to customize this template based on specific details about your Xylophone app. Add screenshots, update the technologies used, or include any additional information you'd like to highlight.
 
